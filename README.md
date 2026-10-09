@@ -10,13 +10,13 @@ An individual-based simulation of Asiatic black bears and sika deer in Tohoku, J
 
 | File | Contents |
 |:---|:---|
-| `bear_sim_exe.zip` | Windows app, Japanese screens (version 0.15.2) |
-| `bear_sim_apk.zip` | Android APK, Japanese screens (version 0.15.2) |
-| `bear_sim_exe_en.zip` | Windows app, English screens (version 0.15.2) |
-| `bear_sim_apk_en.zip` | Android APK, English screens (version 0.15.2) |
+| `bear_sim_exe.zip` | Windows app, Japanese screens (version 0.15.3) |
+| `bear_sim_apk.zip` | Android APK, Japanese screens (version 0.15.3) |
+| `bear_sim_exe_en.zip` | Windows app, English screens (version 0.15.3) |
+| `bear_sim_apk_en.zip` | Android APK, English screens (version 0.15.3) |
 | `bear_sim.zip` | Design documents and source code: `docs_src/` (Japanese, L1-L4, the source) and `docs_en/` (English, L1-L3 only) in separate folders, `src/`, `desktop/`, `app/`, `shared/`, an empty ledger |
 
-The Windows build needs Python 3.11 with numpy on your PC. The Android build is debug-signed and has not been run on a real device or an emulator. The apps are **not code-signed**, so Windows and Android may warn you.
+The Windows build needs Python 3.11 with numpy on your PC. The Android build is debug-signed; the author ran it on an Android device and confirmed it (version 0.15.3). The apps are **not code-signed**, so Windows and Android may warn you.
 
 You are free to change the design documents and the code and compare the results.
 
